@@ -1,0 +1,12 @@
+post_id,user_id,username,location,followers_count,profile_creation_date,post_content,post_date,platform,sentiment_score_id,sentiment_type,confidence_score
+101,1,john_doe,New York, USA,500,2022-01-15,"Loving the new product release!",2024-09-18,Twitter,1,positive,0.85
+102,2,jane_smith,London, UK,1200,2020-06-25,"This service is terrible, never again.",2024-09-19,Facebook,2,negative,0.90
+103,3,mike_brown,Toronto, Canada,900,2021-05-10,"The update feels just okay, nothing special.",2024-09-20,Instagram,3,neutral,0.75
+104,4,alice_wong,Sydney, Australia,1500,2019-11-20,"The best app I’ve used in a long time!",2024-09-18,LinkedIn,4,positive,0.70
+105,5,lucy_li,Beijing, China,700,2023-03-05,"I am really disappointed with this service.",2024-09-19,Twitter,5,negative,0.95
+106,6,raj_kapoor,Mumbai, India,3000,2018-07-14,"Neutral feelings about the latest changes.",2024-09-18,Facebook,6,neutral,0.80
+107,7,carla_garcia,Madrid, Spain,1100,2021-09-30,"This product keeps getting better and better!",2024-09-20,Instagram,7,positive,0.88
+108,8,fatima_hassan,Cairo, Egypt,400,2020-12-12,"Absolutely frustrating experience, not worth it.",2024-09-19,LinkedIn,8,negative,0.92
+109,9,david_jones,Cape Town, South Africa,850,2022-06-01,"I don’t feel strongly one way or another.",2024-09-18,Twitter,9,neutral,0.60
+110,10,sofia_martinez,Mexico City, Mexico,1300,2020-04-18,"I would highly recommend this to everyone.",2024-09-20,Facebook,10,positive,0.78
+
